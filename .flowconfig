@@ -1,8 +1,0 @@
-[ignore]
-.*/node_modules/fbjs/*
-.*/*.spec.js
-[include]
-
-[libs]
-flow-typed
-[options]

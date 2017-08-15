@@ -4,11 +4,9 @@ module.exports = {
     "plugins": [
         "react",
         "jsx-a11y",
-        "import",
-        "flowtype-errors"
+        "import"
     ],
     "rules": {
-        "flowtype-errors/show-errors": 2,
         "react/jsx-filename-extension": 0
     }
 };
